@@ -34,7 +34,8 @@
 <table>
   <tr>
     <td width="60%" valign="top">
-      <p>Halo semuanya! Kenalin, saya <b>M. Naufal Zamani</b>. Kalau orang-orang biasanya terbagi dua—antara yang <i>cuma jago teori statistik</i> atau yang <i>cuma bisa copas kodingan tanpa paham rumusnya</i>—nah saya ada di tengah-tengahnya buat ngejembatanin dua dunia itu.</p>
+      <p>
+        Halo semuanya! Kenalin, saya <b>M. Naufal Zamani</b>. Kalau orang-orang biasanya terbagi dua—antara yang <i>cuma jago teori statistik</i> atau yang <i>cuma bisa copas kodingan tanpa paham rumusnya</i>—nah saya ada di tengah-tengahnya buat ngejembatanin dua dunia itu.</p>
       
       <p>Bagi saya, data itu nggak cukup cuma ditaruh di laporan PDF setebal 200 halaman yang akhirnya cuma jadi ganjelan pintu. Saya terbiasa ngerjain siklus data dari hulu ke hilir alias <b>End-to-End</b>:</p>
       <ul>
