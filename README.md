@@ -1,105 +1,113 @@
 <div align="center">
 
-  <!-- Header Banner Ombak Animasi -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=210&section=header&text=M.%20Naufal%20Zamani&fontSize=42&fontAlignY=35&animation=fadeIn" width="100%" />
+  <!-- Banner Futuristik Dinamis -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f172a,50:1e3a8a,100:0284c7&height=220&section=header&text=M.%20NAUFAL%20ZAMANI&fontSize=48&fontAlignY=40&desc=End-to-End%20Data%20Scientist%20%7C%20Statistician%20%7C%20Full-Stack%20Analytics%20%26%20Researcher&descSize=16&descAlignY=62&stroke=0284c7&strokeWidth=2" width="100%" />
 
-  <!-- Animasi Teks Mengetik Dinamis -->
+  <!-- Animasi Teks Mengetik Lengkap (All-Rounder) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Statistician+%7C+Spatial+Data+Analyst+%F0%9F%8C%8D;Postgraduate+Student+in+Statistics+at+ITS+%F0%9F%8E%93;GIS+%26+Remote+Sensing+Enthusiast+(QGIS%2C+ArcGIS%2C+GEE)+%F0%9F%97%BA%EF%B8%8F;Business+Intelligence+%26+Data+Storyteller+(Power+BI%2C+Tableau)+%F0%9F%93%88;Disaster+Risk+%26+Market+Intelligence+Researcher+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=📊+Postgraduate+Statistician+@+ITS+Surabaya;⚡+Full-Stack+Analytics:+From+Complex+Math+to+Interactive+Web+Apps;📈+Dashboard+%26+BI+Architect+(Power+BI%2C+Tableau%2C+R-Shiny);🗺️+Advanced+Geospatial+Data+Scientist+(GIS%2C+GEE%2C+Remote+Sensing);💻+Python%2C+R%2C+SQL%2C+Modern+Web+Dev+(FastAPI%2C+Streamlit%2C+HTML%2FCSS);🔬+Evidence-Based+Researcher+%7C+Market+Intelligence+%26+Disaster+Risk" alt="Typing SVG" />
   </a>
 
-  <p align="center">
-    <em>"Data bukan hanya angka, tapi cerita yang jika dipahami, dapat mengubah keputusan menjadi solusi dan masalah menjadi peluang."</em>
-  </p>
+  <br>
 
-  <!-- Tombol Sosial Media Berwarna & Interaktif -->
+  <!-- Profil Sosmed Berkelas -->
   <p align="center">
-    <a href="https://www.linkedin.com/in/m-naufal-zamani-41283933a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/m-naufal-zamani-41283933a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://www.instagram.com/rebatur_data/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    <a href="https://medium.com/@naufal_muhammad"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-    <a href="mailto:naufal.zamani2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://medium.com/@naufal_muhammad"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+    <a href="mailto:naufal.zamani2002@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 
 </div>
 
 ---
 
-### 👨‍💻 Tentang Saya
+### 🚀 Menghubungkan Teori Statistik, Kodingan, & Dampak Bisnis
 
 <table>
   <tr>
-    <td width="65%" valign="top">
-      <p>Lulusan dan mahasiswa pascasarjana <b>Statistika di Institut Teknologi Sepuluh Nopember (ITS)</b> dengan fokus riset mendalam pada analisis data spasial dan pemodelan prediktif.</p>
+    <td width="60%" valign="top">
+      <p>Halo! Saya <b>M. Naufal Zamani</b>, seorang <b>Multidisciplinary Data Practitioner & Researcher</b> lulusan dan mahasiswa pascasarjana Statistika di <b>Institut Teknologi Sepuluh Nopember (ITS)</b>.</p>
+      <p>Saya tidak hanya mengolah data di atas kertas, tapi mengembangkannya secara <i>end-to-end</i>: mulai dari perumusan model matematika/statistika tingkat lanjut, pembangunan arsitektur database, rekayasa kode, hingga merancangnya menjadi <b>dashboard interaktif</b> dan <b>aplikasi web berbasis data</b> yang siap pakai untuk pengambil keputusan strategis.</p>
       <ul>
-        <li>🌍 <b>Fokus Riset:</b> Spatial Statistics, Climate & Disaster Analytics, Remote Sensing, dan Market Intelligence.</li>
-        <li>💡 <b>Komunitas & Edukasi:</b> Founder inisiatif edukasi data di Instagram <a href="https://www.instagram.com/rebatur_data/"><b>@rebatur_data</b></a> & penulis artikel di Medium.</li>
-        <li>⚙️ <b>Filosofi:</b> Menggabungkan ketepatan metode statistik dengan visualisasi spasial interaktif untuk menghasilkan keputusan strategis nyata.</li>
-        <li>📍 <b>Lokasi:</b> Lombok, NTB / Surabaya (Terbuka untuk kolaborasi On-site, Hybrid, & Remote).</li>
+        <li>🎯 <b>Core Focus:</b> Predictive Modeling, Econometrics, Geospatial Intelligence, & Business Decision System.</li>
+        <li>💡 <b>Education & Impact:</b> Mengedukasi komunitas data via <a href="https://www.instagram.com/rebatur_data/"><b>@rebatur_data</b></a> & publikasi riset mendalam di Medium.</li>
+        <li>📍 <b>Ketersediaan:</b> Lombok, NTB / Surabaya <i>(Open for High-Impact Projects, Research, & Full-Stack Data Roles)</i>.</li>
       </ul>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <!-- Animasi Globe & Satellite GIF -->
-      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220" alt="Rotating Earth Globe" />
+    <td width="40%" align="center" valign="middle">
+      <!-- Animasi Data Scientist / Hologram Mewah -->
+      <img src="https://images.squarespace-cdn.com/content/v1/5c5457ef65a707753c07e034/1569426462719-75618A66359W59Q9P667/data_analysis_800.gif" width="100%" alt="Data Science in Action" style="border-radius: 12px;" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Keahlian, Tools & Tech Stack
+### ⚡ Supercharged Tech Stack & Arsenal
 
 <div align="center">
-  <!-- Ikon Modern Skillicons -->
-  <img src="https://skillicons.dev/icons?i=r,python,postgres,mysql,git,github,vscode,markdown" height="45" /><br><br>
+  <img src="https://skillicons.dev/icons?i=python,r,postgres,mysql,html,css,js,fastapi,git,github,vscode,docker" />
 </div>
 
-#### 🗺️ Geospatial & Remote Sensing
-<p align="left">
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
-  <img src="https://img.shields.io/badge/ArcGIS-005E95?style=for-the-badge&logo=esri&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" />
-  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+<br>
 
-#### 📊 Business Intelligence & Visualisasi Data
-<p align="left">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/R_Shiny-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-</p>
+<details open>
+<summary><b>📂 Klik untuk melihat rincian spesialisasi alat & perangkat lunak</b></summary>
+<br>
 
-#### 💻 Analisis Statistik, Komputasi & Database
-<p align="left">
-  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/R_Language-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+| Domain Keahlian | Alat, Bahasa & Kerangka Kerja (Framework) |
+| :--- | :--- |
+| **Data Science & Statistics** | `Python` `R / RStudio` `Jupyter` `Pandas` `NumPy` `Scikit-Learn` `SciPy` `Statsmodels` |
+| **Business Intelligence & Dashboards** | `Power BI` `Tableau` `R Shiny` `Streamlit` `Advanced Excel` `Looker Studio` |
+| **Web Dev & Data Deployment** | `HTML5` `CSS3` `JavaScript` `FastAPI` `Flask` `Tailwind CSS` `REST APIs` |
+| **Geospatial & Remote Sensing (GIS)**| `QGIS` `ArcGIS Pro` `Google Earth Engine (GEE)` `GeoPandas` `PostGIS` `Leaflet` |
+| **Database & Data Engineering** | `PostgreSQL` `MySQL` `SQLite` `Database Normalization` `Query Optimization` |
+| **Metodologi Riset Ilmiah** | `Spatial Econometrics` `Time Series Forecasting` `Machine Learning` `Quasi-Experimental Design` |
+
+</details>
 
 ---
 
-### 📈 Aktivitas & Statistik GitHub
+### 🏆 Repositori Unggulan & Portofolio Nyata
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🛒 Tokopedia Retail Market Intelligence</h3>
+      <p align="center">Platform analisis spasial dan estimasi performa penjualan ritel modern pada 29.000+ data transaksi pasar e-commerce.</p>
+      <p align="center"><code>Web App</code> • <code>Retail Intelligence</code> • <code>Big Data Analysis</code></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏎️ Mandalika MotoGP Analytics Portal</h3>
+      <p align="center">Portal analitik resmi untuk evaluasi spasial pergerakan wisatawan, dampak ekonomi, dan analisis risiko kebencanaan di sirkuit Mandalika.</p>
+      <p align="center"><code>Spatial Modeling</code> • <code>Interactive Portal</code> • <code>Risk Analytics</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Statistik Performa GitHub
 
 <div align="center">
-  <!-- Kartu Statistik Utama -->
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=NaufalMuhammad28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
-  <!-- Bahasa Paling Sering Digunakan -->
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalMuhammad28&layout=compact&theme=tokyonight&border_radius=10" />
+  <!-- GitHub Overall Stats -->
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=NaufalMuhammad28&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&border_color=0284c7&border_radius=12" />
+  <!-- Most Used Languages -->
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalMuhammad28&layout=compact&theme=nightowl&border_color=0284c7&border_radius=12" />
 </div>
 
 <div align="center">
   <br>
-  <!-- Streak Counter (Keaktifan) -->
-  <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=NaufalMuhammad28&theme=tokyonight&border_radius=10" />
+  <!-- Streak Counter -->
+  <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=NaufalMuhammad28&theme=nightowl&border=0284c7&border_radius=12" />
 </div>
 
 ---
 
 <div align="center">
-  <!-- Footer Ombak -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=100&section=footer" width="100%" />
+  <!-- Footer Ombak Halus -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0284c7&height=100&section=footer" width="100%" />
+  
+  <sub><i>Dikembangkan dengan ketelitian statistik & rekayasa modern • © 2026 M. Naufal Zamani</i></sub>
 </div>
