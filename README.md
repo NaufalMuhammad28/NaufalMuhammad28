@@ -1,23 +1,23 @@
 <div align="center">
 
-  <!-- Header Banner Cyber Glow -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:091e3a,100:0052cc&height=220&section=header&text=M.%20NAUFAL%20ZAMANI&fontSize=42&fontAlignY=38&desc=All-Rounder%20Data%20Scientist%20%E2%80%A2%20Spatial%20Engineer%20%E2%80%A2%20Full-Stack%20Researcher&descSize=15&descAlignY=60&fontColor=ffffff&stroke=38bdf8&strokeWidth=1" width="100%" />
+  <!-- Header Banner Rainbow / Gradient Cyber -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,14,20&height=220&section=header&text=M.%20NAUFAL%20ZAMANI&fontSize=42&fontAlignY=38&desc=%F0%9F%9A%80%20All-Rounder%20Data%20Scientist%20%7C%20Spatial%20Engineer%20%7C%20Dashboard%20Architect&descSize=15&descAlignY=60&fontColor=ffffff&stroke=00ffff&strokeWidth=1" width="100%" />
 
   <!-- Animasi Teks Mengetik -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Bukan+Cuma+Olah+Tabel+-+Kodingan+Sampai+Subuh+Gas+Pol!;Bisa+Semuanya:+Python%2C+R%2C+SQL%2C+Web+Dev%2C+Sampe+Deploy;Jago+Bikin+Dashboard+Mewah:+Power+BI%2C+Tableau%2C+Streamlit;Suhu+Pemetaan+Spasial:+QGIS%2C+ArcGIS%2C+Google+Earth+Engine;Peneliti+Data+Keras:+Dari+Risiko+Bencana+Hingga+Pasar+Ritel;Penganut+Paham:+Data+Disiksa+Dulu+Biar+Mau+Jujur" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Bukan+Cuma+Olah+Tabel+-+Kodingan+Sampai+Subuh+Gas+Pol!;Bisa+Semuanya:+Python%2C+R%2C+SQL%2C+Web+Dev%2C+Deploy;Jago+Bikin+Dashboard+Mewah:+Power+BI%2C+Tableau%2C+Streamlit;Suhu+Pemetaan+Spasial:+QGIS%2C+ArcGIS%2C+Google+Earth+Engine;Histogram%2C+Regresi%2C+Spasial%2C+Machine+Learning+Hajar+Semua!;Penganut+Paham:+Data+Disiksa+Dulu+Biar+Mau+Jujur" alt="Typing SVG" />
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Mode-All--Rounder_Data_Wizard-0284c7?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Kafein-99.9%25_Active-red?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Bug-Zero_(Aamiin)-059669?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Brain-Overclocked-purple?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Status-Overclocked_Brain-ff007f?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Spasial-GIS_Suhu-00f5ff?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Dashboard-PowerBI_&_Tableau-f59e0b?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Kafein-99.9%25-10b981?style=for-the-badge" />
   </p>
 
   <p align="center">
-    <em>"Bagi saya data itu misteri. Kalau cuma diliatin doang nggak bakal ada gunanya, tapi begitu disiksa pake kodingan dan model matematika, dia bakal buka suara dan ngasih solusi bisnis nyata."</em>
+    <em>"Bagi saya data itu misteri. Kalau cuma diliatin doang nggak bakal ada gunanya, tapi begitu disiksa pake kodingan dan model matematika, dia bakal buka suara dan ngasih solusi bisnis nyata!"</em>
   </p>
 
-  <!-- Tombol Sosial Media -->
+  <!-- Tombol Sosial Media Warna-Warni -->
   <p align="center">
     <a href="https://www.linkedin.com/in/m-naufal-zamani-41283933a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://www.instagram.com/rebatur_data/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -29,16 +29,28 @@
 
 ---
 
-### 🧐 Tentang Saya: Praktisi Data Serba Bisa (Bukan Teori Doang!)
+### 📊 Live Analytics & Data Stream (Histogram & Charts)
 
-<!-- Barisan Meme Kucing Bagian Atas -->
 <div align="center">
-  <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="180" alt="Kucing Ngoding Barbar" style="border-radius: 12px; margin: 5px;" />
-  <img src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" width="180" alt="Kucing Mikir Matriks" style="border-radius: 12px; margin: 5px;" />
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" alt="Kucing Pusing Capek" style="border-radius: 12px; margin: 5px;" />
-  <img src="https://media.giphy.com/media/yFQ0ywscgobJK/giphy.gif" width="180" alt="Kucing Senang Selesai Ngoding" style="border-radius: 12px; margin: 5px;" />
+  <!-- Animasi Histogram / Data Chart Bergerak Asli -->
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="31%" height="160" style="border-radius: 10px; border: 2px solid #00F5FF; object-fit: cover;" />
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="31%" height="160" style="border-radius: 10px; border: 2px solid #EC4899; object-fit: cover;" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="31%" height="160" style="border-radius: 10px; border: 2px solid #10B981; object-fit: cover;" />
   <br>
-  <sub><i>Fase kehidupan data scientist: Ngoding Barbar ➔ Mikir Rumus ➔ Pusing Pas Error ➔ Joget Pas Running Lancar</i></sub>
+  <sub><i>📊 [Real-Time Stream] Histogram Frekuensi • Pemrosesan Neural Network • Analisis Spasial Orbit Satelit</i></sub>
+</div>
+
+---
+
+### 😹 Empat Fase Kehidupan Saya Sebagai Data Wizard
+
+<div align="center">
+  <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="23%" height="140" style="border-radius: 12px; border: 2px solid #3b82f6; object-fit: cover;" />
+  <img src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" width="23%" height="140" style="border-radius: 12px; border: 2px solid #8b5cf6; object-fit: cover;" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="23%" height="140" style="border-radius: 12px; border: 2px solid #ef4444; object-fit: cover;" />
+  <img src="https://media.giphy.com/media/yFQ0ywscgobJK/giphy.gif" width="23%" height="140" style="border-radius: 12px; border: 2px solid #10b981; object-fit: cover;" />
+  <br>
+  <b>1. Ngoding Barbar ➔ 2. Mikir Rumus Spasial ➔ 3. Pusing Pas Bug ➔ 4. Joget Model Akurasi 99%</b>
 </div>
 
 <br>
@@ -47,25 +59,24 @@ Halo semuanya! Kenalin, saya **M. Naufal Zamani**. Kalau kebanyakan orang biasan
 
 Bagi saya, data itu nggak cukup cuma ditaruh di laporan PDF setebal 200 halaman yang akhirnya cuma jadi ganjelan pintu. Saya terbiasa ngerjain siklus data dari hulu ke hilir alias **End-to-End**:
 
-- 🧮 **Matematika & Statistik Tingkat Lanjut:** Nggak alergi sama formula rumit, matriks, ekonometrika spasial, estimasi parameter, dan peramalan time-series.
-- 🗺️ **Intelijen Spasial (GIS):** Ngerti cara baca peta, ngolah data citra satelit kebencanaan, sampai analisis titik panas persebaran pasar dan zonasi risiko.
-- 💻 **Software Engineering & Web Dev:** Bisa nulis script Python/R yang bersih, nyusun arsitektur database SQL, bikin API dengan FastAPI, sampai ngerancang web interaktif yang siap dipakai publik.
-- 📊 **Storytelling & Dashboard:** Merancang visualisasi data kelas eksekutif yang bikin bos langsung paham inti masalah dalam 5 detik tanpa pusing mikir rumus.
-- 💡 **Edukasi & Komunitas:** Aktif mengedukasi publik lewat akun Instagram **[@rebatur_data](https://www.instagram.com/rebatur_data/)** & rutin menulis artikel analisis mendalam di Medium.
-
-> 📌 **Status:** *Terbuka untuk kolaborasi project analitik skala besar, riset mendalam, freelance consultancy, maupun peluang karir profesional tingkat lanjut!*
+- 📈 **Histogram, Regresi & Matematika Lanjut:** Nggak pusing sama matriks kovarians, estimasi parameter, ekonometrika spasial, dan time-series forecasting.
+- 🗺️ **GIS & Satelit Remote Sensing:** Ahli membaca data vektor & raster, interpolasi spasial, citra satelit kebencanaan, sampai hotspotting pasar.
+- 💻 **Software Engineering & Web Apps:** Bukan cuma running script di Jupyter, tapi dibungkus jadi web app siap pakai (Python, FastAPI, HTML, CSS, JS).
+- 📊 **Executive Business Dashboards:** Bikin dashboard Power BI & Tableau interaktif yang memanjakan mata direksi dan pengambil keputusan.
+- 💡 **Founder Komunitas:** Aktif mengedukasi data lewat Instagram **[@rebatur_data](https://www.instagram.com/rebatur_data/)** & nulis analisis di Medium.
 
 ---
 
-### 🛠️ Gudang Senjata & Software Tempur (Bisa Semuanya!)
+### 🛠️ Gudang Senjata Warna-Warni (Software & Tech Stack)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=r,python,postgres,mysql,html,css,js,fastapi,git,github,vscode,docker,postman" />
+  <!-- Barisan Icon Warna Warni -->
+  <img src="https://skillicons.dev/icons?i=python,r,postgres,mysql,html,css,js,fastapi,git,github,vscode,docker,postman" />
 </div>
 
 <br>
 
-#### 📊 1. Business Intelligence & Dashboard Interaktif (Tampilan Manajer Suka!)
+#### 📊 1. Business Intelligence, Dashboard & Visualisasi Data
 <p align="left">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
@@ -75,7 +86,7 @@ Bagi saya, data itu nggak cukup cuma ditaruh di laporan PDF setebal 200 halaman 
   <img src="https://img.shields.io/badge/Excel_Sepuh-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
-#### 🗺️ 2. GIS, Geospasial & Citra Satelit (Bumi Aja Dipetain, Apalagi Peluang Bisnis)
+#### 🗺️ 2. GIS, Geospasial & Citra Satelit (Bumi Aja Dipetain, Apalagi Masa Depan)
 <p align="left">
   <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
   <img src="https://img.shields.io/badge/ArcGIS_Pro-005E95?style=for-the-badge&logo=esri&logoColor=white" />
@@ -88,7 +99,8 @@ Bagi saya, data itu nggak cukup cuma ditaruh di laporan PDF setebal 200 halaman 
 #### 💻 3. Bahasa Kodingan, Backend Web & Database
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R_Studio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/R_Language-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -105,9 +117,9 @@ Bagi saya, data itu nggak cukup cuma ditaruh di laporan PDF setebal 200 halaman 
 
 | 🏎️ Mandalika MotoGP Analytics Portal | 🛒 Tokopedia Market Intelligence |
 | :---: | :---: |
-| <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="160" /> | <img src="https://media.giphy.com/media/67ThRZlYBvibtdF9JH/giphy.gif" width="160" /> |
+| <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="180" style="border-radius: 10px;" /> | <img src="https://media.giphy.com/media/67ThRZlYBvibtdF9JH/giphy.gif" width="180" style="border-radius: 10px;" /> |
 | **Sistem Analitik Spasial & Risiko Multi-Bencana** | **Platform Intelijen Pasar & Retail Modern** |
-| Memetakan konsentrasi pergerakan turis dunia, dampak perputaran ekonomi lokal, dan mitigasi risiko kebencanaan di kawasan Sirkuit Mandalika. | Membedah 29.000+ data transaksi pasar e-commerce. Dilengkapi estimasi penjualan, klaster kompetitor, dan analisis harga pasar. |
+| Memetakan konsentrasi pergerakan turis dunia, dampak ekonomi lokal, dan mitigasi risiko kebencanaan di kawasan Sirkuit Mandalika. | Membedah 29.000+ data transaksi pasar e-commerce. Dilengkapi estimasi penjualan, klaster kompetitor, dan analisis harga pasar. |
 | `Spatial Modeling` • `Disaster Analytics` • `Web Portal` | `Retail Intelligence` • `Big Data Analysis` • `Dashboard` |
 
 </div>
@@ -118,22 +130,22 @@ Bagi saya, data itu nggak cukup cuma ditaruh di laporan PDF setebal 200 halaman 
 
 <div align="center">
   <!-- GitHub Overall Stats -->
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=NaufalMuhammad28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=38bdf8&border_radius=12" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=NaufalMuhammad28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00f5ff&border_radius=12" />
   <!-- Most Used Languages -->
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalMuhammad28&layout=compact&theme=tokyonight&border_color=38bdf8&border_radius=12" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalMuhammad28&layout=compact&theme=tokyonight&border_color=00f5ff&border_radius=12" />
 </div>
 
 <div align="center">
   <br>
   <!-- Streak Counter -->
-  <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=NaufalMuhammad28&theme=tokyonight&border=38bdf8&border_radius=12" />
+  <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=NaufalMuhammad28&theme=tokyonight&border=00f5ff&border_radius=12" />
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Meme Anjing Ngoding Santai di Tengah Api -->
-  <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="220" alt="This is fine" style="border-radius: 12px;" />
+  <!-- Meme Anjing Santai di Tengah Api -->
+  <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="220" alt="This is fine" style="border-radius: 12px; border: 2px solid #f59e0b;" />
   <br>
   <sub><i>"Server error? Data kotor? Deadline besok pagi? Tenang, tarik nafas... semuanya aman terkendali."</i></sub>
 </div>
@@ -141,8 +153,8 @@ Bagi saya, data itu nggak cukup cuma ditaruh di laporan PDF setebal 200 halaman 
 ---
 
 <div align="center">
-  <!-- Footer Ombak -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:091e3a,100:0052cc&height=90&section=footer" width="100%" />
+  <!-- Footer Ombak Rainbow -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,14,20&height=90&section=footer" width="100%" />
 
-  <sub><i>Dirancang dengan presisi algoritma, rasa humor yang sehat, dan ribuan baris kodingan • © 2026 M. Naufal Zamani</i></sub>
+  <sub><i>Dirancang dengan presisi algoritma, visualisasi warna-warni, dan rasa humor yang sehat • © 2026 M. Naufal Zamani</i></sub>
 </div>
