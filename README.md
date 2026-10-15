@@ -1,10 +1,10 @@
 <div align="center">
 
-  <!-- Header Banner Rainbow / Gradient Cyber -->
+  <!-- Header Banner Rainbow Cyber -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,14,20&height=220&section=header&text=M.%20NAUFAL%20ZAMANI&fontSize=42&fontAlignY=38&desc=%F0%9F%9A%80%20All-Rounder%20Data%20Scientist%20%7C%20Spatial%20Engineer%20%7C%20Dashboard%20Architect&descSize=15&descAlignY=60&fontColor=ffffff&stroke=00ffff&strokeWidth=1" width="100%" />
 
-  <!-- Animasi Teks Mengetik -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Bukan+Cuma+Olah+Tabel+-+Kodingan+Sampai+Subuh+Gas+Pol!;Bisa+Semuanya:+Python%2C+R%2C+SQL%2C+Web+Dev%2C+Deploy;Jago+Bikin+Dashboard+Mewah:+Power+BI%2C+Tableau%2C+Streamlit;Suhu+Pemetaan+Spasial:+QGIS%2C+ArcGIS%2C+Google+Earth+Engine;Histogram%2C+Regresi%2C+Spasial%2C+Machine+Learning+Hajar+Semua!;Penganut+Paham:+Data+Disiksa+Dulu+Biar+Mau+Jujur" alt="Typing SVG" />
+  <!-- Animasi Teks Mengetik Dinamis -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Master+(S2)+Statistika+ITS+Surabaya;Bukan+Cuma+Olah+Tabel+-+Kodingan+Sampai+Subuh+Gas+Pol!;Bisa+Semuanya:+Python%2C+R%2C+SQL%2C+Web+Dev%2C+Deploy;Jago+Bikin+Dashboard+Mewah:+Power+BI%2C+Tableau%2C+Streamlit;Suhu+Pemetaan+Spasial:+QGIS%2C+ArcGIS%2C+Google+Earth+Engine;Histogram%2C+Regresi%2C+Spasial%2C+Machine+Learning+Hajar+Semua!" alt="Typing SVG" />
 
   <p align="center">
     <img src="https://img.shields.io/badge/Status-Overclocked_Brain-ff007f?style=for-the-badge" />
@@ -17,9 +17,10 @@
     <em>"Bagi saya data itu misteri. Kalau cuma diliatin doang nggak bakal ada gunanya, tapi begitu disiksa pake kodingan dan model matematika, dia bakal buka suara dan ngasih solusi bisnis nyata!"</em>
   </p>
 
-  <!-- Tombol Sosial Media Warna-Warni -->
+  <!-- Tombol Sosial Media & ORCID Resmi -->
   <p align="center">
     <a href="https://www.linkedin.com/in/m-naufal-zamani-41283933a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://orcid.org/0009-0005-0264-842X" target="_blank"><img src="https://img.shields.io/badge/ORCID-0009--0005--0264--842X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
     <a href="https://www.instagram.com/rebatur_data/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
     <a href="https://medium.com/@naufal_muhammad" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
     <a href="mailto:naufal.zamani2002@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -32,12 +33,11 @@
 ### 📊 Live Analytics & Data Stream (Histogram & Charts)
 
 <div align="center">
-  <!-- Animasi Histogram / Data Chart Bergerak Asli -->
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="31%" height="160" style="border-radius: 10px; border: 2px solid #00F5FF; object-fit: cover;" />
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="31%" height="160" style="border-radius: 10px; border: 2px solid #EC4899; object-fit: cover;" />
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="31%" height="160" style="border-radius: 10px; border: 2px solid #10B981; object-fit: cover;" />
   <br>
-  <sub><i>📊 [Real-Time Stream] Histogram Frekuensi • Pemrosesan Neural Network • Analisis Spasial Orbit Satelit</i></sub>
+  <sub><i>📊 [Real-Time Stream] Histogram Frekuensi • Pemrosesan Neural Network • Analisis Spasial Satelit</i></sub>
 </div>
 
 ---
@@ -70,7 +70,6 @@ Bagi saya, data itu nggak cukup cuma ditaruh di laporan PDF setebal 200 halaman 
 ### 🛠️ Gudang Senjata Warna-Warni (Software & Tech Stack)
 
 <div align="center">
-  <!-- Barisan Icon Warna Warni -->
   <img src="https://skillicons.dev/icons?i=python,r,postgres,mysql,html,css,js,fastapi,git,github,vscode,docker,postman" />
 </div>
 
@@ -86,7 +85,7 @@ Bagi saya, data itu nggak cukup cuma ditaruh di laporan PDF setebal 200 halaman 
   <img src="https://img.shields.io/badge/Excel_Sepuh-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
-#### 🗺️ 2. GIS, Geospasial & Citra Satelit (Bumi Aja Dipetain, Apalagi Masa Depan)
+#### 🗺️ 2. GIS, Geospasial & Citra Satelit
 <p align="left">
   <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
   <img src="https://img.shields.io/badge/ArcGIS_Pro-005E95?style=for-the-badge&logo=esri&logoColor=white" />
@@ -111,7 +110,7 @@ Bagi saya, data itu nggak cukup cuma ditaruh di laporan PDF setebal 200 halaman 
 
 ---
 
-### 🏆 Portofolio Nyata yang Dibangun Pakai Keringat & Kopi
+### 🏆 Portofolio Nyata & Publikasi Ilmiah
 
 <div align="center">
 
@@ -123,6 +122,21 @@ Bagi saya, data itu nggak cukup cuma ditaruh di laporan PDF setebal 200 halaman 
 | `Spatial Modeling` • `Disaster Analytics` • `Web Portal` | `Retail Intelligence` • `Big Data Analysis` • `Dashboard` |
 
 </div>
+
+<br>
+
+<table>
+  <tr>
+    <td>
+      <h4>🏔️ Publikasi Jurnal: Analisis Spasial Kerawanan Tanah Longsor Gunung Rinjani</h4>
+      <p><i>Jurnal Geomatika, Vol. 32 No. 1 • Badan Informasi Geospasial (BIG)</i></p>
+      <p>Penelitian pemodelan mitigasi bencana berbasis GIS & Penginderaan Jauh menggunakan Analytical Hierarchy Process (AHP), DEMNAS, dan Google Earth Engine (GEE).</p>
+      <a href="https://big.go.id/content/produk/jurnal-ilmiah-geomatika" target="_blank">
+        <img src="https://img.shields.io/badge/Buka_Jurnal_Resmi-Badan_Informasi_Geospasial-0052cc?style=for-the-badge&logo=googlechrome&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -147,7 +161,7 @@ Bagi saya, data itu nggak cukup cuma ditaruh di laporan PDF setebal 200 halaman 
   <!-- Meme Anjing Santai di Tengah Api -->
   <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="220" alt="This is fine" style="border-radius: 12px; border: 2px solid #f59e0b;" />
   <br>
-  <sub><i>"Server error? Data kotor? Deadline besok pagi? Tenang, tarik nafas... semuanya aman terkendali."</i></sub>
+  <sub><i>"Server error? Data kotor? Deadline besok pagi? Tenang, tarik nafas... semuanya aman terkendali."</i>}
 </div>
 
 ---
