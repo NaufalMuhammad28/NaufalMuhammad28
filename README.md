@@ -33,41 +33,30 @@
 ### 📊 Live Analytics & Data Stream (Histogram & Charts)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="31%" height="160" style="border-radius: 10px; border: 2px solid #00F5FF; object-fit: cover;" />
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="31%" height="160" style="border-radius: 10px; border: 2px solid #EC4899; object-fit: cover;" />
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="31%" height="160" style="border-radius: 10px; border: 2px solid #10B981; object-fit: cover;" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="31%" height="150" style="border-radius: 10px; border: 2px solid #00F5FF; object-fit: cover;" />
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="31%" height="150" style="border-radius: 10px; border: 2px solid #EC4899; object-fit: cover;" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="31%" height="150" style="border-radius: 10px; border: 2px solid #10B981; object-fit: cover;" />
   <br>
   <sub><i>📊 [Real-Time Stream] Histogram Frekuensi • Pemrosesan Neural Network • Analisis Spasial Satelit</i></sub>
 </div>
 
 ---
 
-### 😹 Empat Fase Kehidupan Saya Sebagai Data Wizard
+### 👨‍💻 Tentang Saya
 
-<div align="center">
-  <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="23%" height="140" style="border-radius: 12px; border: 2px solid #3b82f6; object-fit: cover;" />
-  <img src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" width="23%" height="140" style="border-radius: 12px; border: 2px solid #8b5cf6; object-fit: cover;" />
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="23%" height="140" style="border-radius: 12px; border: 2px solid #ef4444; object-fit: cover;" />
-  <img src="https://media.giphy.com/media/yFQ0ywscgobJK/giphy.gif" width="23%" height="140" style="border-radius: 12px; border: 2px solid #10b981; object-fit: cover;" />
-  <br>
-  <b>1. Ngoding Barbar ➔ 2. Mikir Rumus Spasial ➔ 3. Pusing Pas Bug ➔ 4. Joget Model Akurasi 99%</b>
-</div>
+Halo semuanya! Kenalin, saya **M. Naufal Zamani**, Mahasiswa Pascasarjana (S2) **Statistika di ITS Surabaya**. 
 
-<br>
+Bagi saya, data itu nggak cukup cuma ditaruh di laporan PDF setebal 200 halaman yang akhirnya cuma jadi ganjelan pintu. Saya terbiasa ngerjain siklus data dari hulu ke hilir secara profesional (**End-to-End**):
 
-Halo semuanya! Kenalin, saya **M. Naufal Zamani**. Kalau kebanyakan orang biasanya terbagi dua—antara yang *cuma jago teori statistik* atau yang *cuma bisa copas kodingan tanpa paham rumusnya*—nah saya ada di tengah-tengahnya buat ngejembatanin dua dunia itu!
-
-Bagi saya, data itu nggak cukup cuma ditaruh di laporan PDF setebal 200 halaman yang akhirnya cuma jadi ganjelan pintu. Saya terbiasa ngerjain siklus data dari hulu ke hilir alias **End-to-End**:
-
-- 📈 **Histogram, Regresi & Matematika Lanjut:** Nggak pusing sama matriks kovarians, estimasi parameter, ekonometrika spasial, dan time-series forecasting.
-- 🗺️ **GIS & Satelit Remote Sensing:** Ahli membaca data vektor & raster, interpolasi spasial, citra satelit kebencanaan, sampai hotspotting pasar.
-- 💻 **Software Engineering & Web Apps:** Bukan cuma running script di Jupyter, tapi dibungkus jadi web app siap pakai (Python, FastAPI, HTML, CSS, JS).
-- 📊 **Executive Business Dashboards:** Bikin dashboard Power BI & Tableau interaktif yang memanjakan mata direksi dan pengambil keputusan.
-- 💡 **Founder Komunitas:** Aktif mengedukasi data lewat Instagram **[@rebatur_data](https://www.instagram.com/rebatur_data/)** & nulis analisis di Medium.
+- 📈 **Matematika & Statistik Lanjut:** Ekonometrika spasial, estimasi parameter, regresi, dan time-series forecasting.
+- 🗺️ **Intelijen Spasial (GIS):** Pengolahan citra satelit, pemetaan risiko bencana, dan analisis geospasial mendalam.
+- 💻 **Software Engineering & Web Apps:** Membangun aplikasi web interaktif menggunakan Python, FastAPI, SQL, HTML, CSS, dan JavaScript.
+- 📊 **Executive Dashboards:** Merancang visualisasi data interaktif kelas manajerial menggunakan Power BI dan Tableau.
+- 💡 **Founder Komunitas:** Aktif mengedukasi data lewat **[@rebatur_data](https://www.instagram.com/rebatur_data/)** & menulis analisis di Medium.
 
 ---
 
-### 🛠️ Gudang Senjata Warna-Warni (Software & Tech Stack)
+### 🛠️ Gudang Senjata & Software Tempur
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,r,postgres,mysql,html,css,js,fastapi,git,github,vscode,docker,postman" />
@@ -75,72 +64,68 @@ Bagi saya, data itu nggak cukup cuma ditaruh di laporan PDF setebal 200 halaman 
 
 <br>
 
-#### 📊 1. Business Intelligence, Dashboard & Visualisasi Data
+#### 📊 1. Business Intelligence & Dashboard Interaktif
 <p align="left">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/R_Shiny-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel_Sepuh-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
-#### 🗺️ 2. GIS, Geospasial & Citra Satelit
+#### 🗺️ 2. GIS, Geospasial & Remote Sensing
 <p align="left">
   <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
   <img src="https://img.shields.io/badge/ArcGIS_Pro-005E95?style=for-the-badge&logo=esri&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" />
   <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
 </p>
 
-#### 💻 3. Bahasa Kodingan, Backend Web & Database
+#### 💻 3. Bahasa Pemrograman, Web & Database
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R_Language-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ---
 
-### 🏆 Portofolio Nyata & Publikasi Ilmiah
-
-<div align="center">
-
-| 🏎️ Mandalika MotoGP Analytics Portal | 🛒 Tokopedia Market Intelligence |
-| :---: | :---: |
-| <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="180" style="border-radius: 10px;" /> | <img src="https://media.giphy.com/media/67ThRZlYBvibtdF9JH/giphy.gif" width="180" style="border-radius: 10px;" /> |
-| **Sistem Analitik Spasial & Risiko Multi-Bencana** | **Platform Intelijen Pasar & Retail Modern** |
-| Memetakan konsentrasi pergerakan turis dunia, dampak ekonomi lokal, dan mitigasi risiko kebencanaan di kawasan Sirkuit Mandalika. | Membedah 29.000+ data transaksi pasar e-commerce. Dilengkapi estimasi penjualan, klaster kompetitor, dan analisis harga pasar. |
-| `Spatial Modeling` • `Disaster Analytics` • `Web Portal` | `Retail Intelligence` • `Big Data Analysis` • `Dashboard` |
-
-</div>
-
-<br>
+### 🏆 Portofolio Utama & Publikasi Ilmiah
 
 <table>
   <tr>
-    <td>
-      <h4>🏔️ Publikasi Jurnal: Analisis Spasial Kerawanan Tanah Longsor Gunung Rinjani</h4>
-      <p><i>Jurnal Geomatika, Vol. 32 No. 1 • Badan Informasi Geospasial (BIG)</i></p>
-      <p>Penelitian pemodelan mitigasi bencana berbasis GIS & Penginderaan Jauh menggunakan Analytical Hierarchy Process (AHP), DEMNAS, dan Google Earth Engine (GEE).</p>
-      <a href="https://big.go.id/content/produk/jurnal-ilmiah-geomatika" target="_blank">
-        <img src="https://img.shields.io/badge/Buka_Jurnal_Resmi-Badan_Informasi_Geospasial-0052cc?style=for-the-badge&logo=googlechrome&logoColor=white" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>🏎️ Mandalika MotoGP Analytics</h3>
+      <p>Portal analitik spasial interaktif untuk memetakan pergerakan turis, dampak ekonomi, dan risiko bencana di kawasan Sirkuit Mandalika.</p>
+      <code>Spatial Modeling</code> • <code>Web Portal</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 Tokopedia Market Intelligence</h3>
+      <p>Platform riset pasar modern yang memproses 29.000+ data transaksi e-commerce untuk estimasi performa penjualan dan harga.</p>
+      <code>Retail Analytics</code> • <code>Big Data</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏔️ Jurnal: Kerawanan Longsor Rinjani</h3>
+      <p><b>Badan Informasi Geospasial (BIG)</b><br>Pemodelan mitigasi bencana menggunakan AHP, DEMNAS, dan Google Earth Engine.</p>
+      <a href="https://big.go.id/content/produk/jurnal-ilmiah-geomatika" target="_blank"><code>Lihat Jurnal BIG</code></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Jurnal: Climate Connectivity</h3>
+      <p><b>ResearchSquare</b><br>Analisis spatiotemporal climate variability menggunakan Detrended Cross-Correlation & Network Analysis.</p>
+      <a href="https://www.researchsquare.com" target="_blank"><code>Lihat ResearchSquare</code></a>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📈 Rekam Jejak Keringat di GitHub
+### 📈 Statistik & Performa GitHub
 
 <div align="center">
   <!-- GitHub Overall Stats -->
@@ -155,20 +140,11 @@ Bagi saya, data itu nggak cukup cuma ditaruh di laporan PDF setebal 200 halaman 
   <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=NaufalMuhammad28&theme=tokyonight&border=00f5ff&border_radius=12" />
 </div>
 
-<br>
-
-<div align="center">
-  <!-- Meme Anjing Santai di Tengah Api -->
-  <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="220" alt="This is fine" style="border-radius: 12px; border: 2px solid #f59e0b;" />
-  <br>
-  <sub><i>"Server error? Data kotor? Deadline besok pagi? Tenang, tarik nafas... semuanya aman terkendali."</i>}
-</div>
-
 ---
 
 <div align="center">
   <!-- Footer Ombak Rainbow -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,14,20&height=90&section=footer" width="100%" />
 
-  <sub><i>Dirancang dengan presisi algoritma, visualisasi warna-warni, dan rasa humor yang sehat • © 2026 M. Naufal Zamani</i></sub>
+  <sub><i>Dirancang dengan presisi algoritma dan visualisasi kelas profesional • © 2026 M. Naufal Zamani</i></sub>
 </div>
