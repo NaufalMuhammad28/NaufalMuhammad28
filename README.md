@@ -80,21 +80,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
-
----
-
-### 📚 Publikasi Ilmiah Utama
-
-<p align="center">
-  <b>🏔️ Jurnal BIG: Analisis Spasial Kerawanan Longsor Rinjani</b><br>
-  <i>Badan Informasi Geospasial (Vol. 32 No. 1) • Pemodelan mitigasi bencana (AHP, DEMNAS, GEE)</i><br>
-  <a href="https://big.go.id/content/produk/jurnal-ilmiah-geomatika" target="_blank"><code>[ Lihat Publikasi Resmi BIG ]</code></a>
-  <br><br>
-  <b>🌐 ResearchSquare: Inter-Provincial Climate Connectivity</b><br>
-  <i>Cross-Correlation & Network Analysis (DFA & DCCA) untuk variabilitas iklim di Indonesia</i><br>
-  <a href="https://www.researchsquare.com" target="_blank"><code>[ Lihat Paper ResearchSquare ]</code></a>
-</p>
-
 </div>
 
 ---
